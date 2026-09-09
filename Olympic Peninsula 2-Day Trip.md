@@ -27,19 +27,26 @@
 | Time | Plan |
 | --- | --- |
 | 9:00 AM | Depart Sequim |
-| 9:35 AM | Lake Crescent — drive-by / photo stop, no hike |
-| 11:05 AM | Ruby Beach (1h30m drive via Forks) — 45 min |
-| 11:50 AM | Drive to Kalaloch (10 min) |
-| 12:00 PM | Kalaloch Tree of Life — 20 min |
-| 12:20 PM | Drive to Lake Quinault (40 min) |
-| 1:00 PM | Lake Quinault + world's largest Sitka spruce — 45 min |
-| 1:45 PM | Drive to Aberdeen (45 min) |
-| 2:30 PM | **Supercharge** — 416 Wishkah St, 8 stalls, 24/7 — 30 min |
-| 3:00 PM | Drive via Olympia (50 min) |
-| 3:50 PM | Olympia → Bellevue (1h10m) |
-| 5:00 PM | **Supper** — Bellevue |
+| 9:35 AM | Arrive Lake Crescent — Storm King / Marymere Falls trailhead |
+| 9:35 AM | **Marymere Falls hike** — 1.8 mi RT, easy grade, old-growth forest to a 90-ft falls. Allow 90 min. |
+| 11:05 AM | Drive along the south shore to La Poel (~15 min) |
+| 11:20 AM | **Devil's Punchbowl** (La Poel) — 2-min walk to a footbridge over turquoise water. Quick photo stop, 15 min. |
+| 11:35 AM | Drive to Ruby Beach via Forks (~1h15m; Hoh River Bridge is one-way alternating — pad for a signal wait) |
+| 12:50 PM | **Ruby Beach** — 45 min |
+| 1:35 PM | Drive to Kalaloch (10 min) |
+| 1:45 PM | Kalaloch Tree of Life — 20 min |
+| 2:05 PM | Drive to Beach 4 (10 min) |
+| 2:15 PM | **Beach 4** — tide pools, quieter than Ruby Beach. 30 min |
+| 2:45 PM | Drive to Lake Quinault (35 min) |
+| 3:20 PM | Lake Quinault + world's largest Sitka spruce — 45 min |
+| 4:05 PM | **Merriman Falls** — roadside pull-off on South Shore Rd on the way out, no detour. 5 min |
+| 4:10 PM | Drive to Aberdeen (45 min) |
+| 4:55 PM | **Supercharge + Supper** — 416 Wishkah St, 8 stalls, 24/7. Eat while it charges, ~75 min |
+| 6:10 PM | Drive via Olympia (50 min) |
+| 7:00 PM | Olympia → Bellevue (1h10m) |
+| 8:10 PM | Arrive Bellevue |
 
-[Verify Day 2 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Sequim%2C%20WA&destination=Bellevue%2C%20WA&waypoints=Lake%20Crescent%20Lodge%2C%20Port%20Angeles%2C%20WA%7CRuby%20Beach%2C%20Olympic%20National%20Park%2C%20WA%7CKalaloch%20Tree%20of%20Life%2C%20Forks%2C%20WA%7CWorlds%20Largest%20Sitka%20Spruce%2C%20Quinault%2C%20WA%7CTesla%20Supercharger%2C%20416%20Wishkah%20St%2C%20Aberdeen%2C%20WA&travelmode=driving) — all six stops in order. Open the directions panel to check each leg's drive time against the table above.
+[Verify Day 2 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Sequim%2C%20WA&destination=Bellevue%2C%20WA&waypoints=Storm%20King%20Ranger%20Station%2C%20Port%20Angeles%2C%20WA%7CLa%20Poel%20Picnic%20Area%2C%20Port%20Angeles%2C%20WA%7CRuby%20Beach%2C%20Olympic%20National%20Park%2C%20WA%7CKalaloch%20Tree%20of%20Life%2C%20Forks%2C%20WA%7CBeach%204%2C%20Olympic%20National%20Park%2C%20WA%7CWorlds%20Largest%20Sitka%20Spruce%2C%20Quinault%2C%20WA%7CMerriman%20Falls%2C%20Quinault%2C%20WA%7CTesla%20Supercharger%2C%20416%20Wishkah%20St%2C%20Aberdeen%2C%20WA&travelmode=driving) — all nine stops in order. Open the directions panel to check each leg's drive time against the table above.
 
 ## Street View Check (Google Earth)
 
@@ -59,10 +66,13 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 
 | Stop | Google Earth |
 | --- | --- |
-| Lake Crescent Lodge | [Open](https://earth.google.com/web/search/Lake+Crescent+Lodge,+Port+Angeles,+WA) |
+| Storm King / Marymere Falls trailhead | [Open](https://earth.google.com/web/search/Storm+King+Ranger+Station,+Port+Angeles,+WA) |
+| La Poel / Devil's Punchbowl | [Open](https://earth.google.com/web/search/La+Poel+Picnic+Area,+Port+Angeles,+WA) |
 | Ruby Beach | [Open](https://earth.google.com/web/search/Ruby+Beach,+Olympic+National+Park,+WA) |
 | Kalaloch Tree of Life | [Open](https://earth.google.com/web/search/Kalaloch+Tree+of+Life,+Forks,+WA) |
+| Beach 4 | [Open](https://earth.google.com/web/search/Beach+4,+Olympic+National+Park,+WA) |
 | World's largest Sitka spruce | [Open](https://earth.google.com/web/search/Worlds+Largest+Sitka+Spruce,+Quinault,+WA) |
+| Merriman Falls | [Open](https://earth.google.com/web/search/Merriman+Falls,+Quinault,+WA) |
 | Aberdeen Supercharger | [Open](https://earth.google.com/web/search/Tesla+Supercharger,+416+Wishkah+St,+Aberdeen,+WA) |
 
 **Worth a look while you're in there** — the two spots flagged in [Olympic Peninsula Trip Research](Olympic%20Peninsula%20Trip%20Research.md):
@@ -78,8 +88,9 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 - **Park pass** required at the Hurricane Ridge entrance station
 - **Carry all food and water** for Hurricane Ridge — no food service and no potable water up top
 - **Layers** for the ridge (~15°F colder than Sequim) and a **windbreaker** for the Day 2 beach stops
-- **Hoh River Bridge** on Day 2 is one-way alternating at 25 mph — pad the Ruby Beach leg
-- Skipped by design: Storm King (schedule risk), Hoh Rainforest (long entrance queue)
+- **Hoh River Bridge** on Day 2 is one-way alternating at 25 mph — pad the Ruby Beach leg (built into the 1h15m estimate above)
+- **Day 2 now returns to Bellevue ~8:10 PM** (supper moved to Aberdeen, stacked on the Supercharger stop) — let anyone waiting know, and check headlights/fuel range for the final I-5 leg after dark
+- Skipped by design: Storm King **Mountain** (the steep, exposed summit trail — schedule/rockfall risk); Marymere Falls, an easy trail from the same Storm King trailhead, is now on Day 2. Hoh Rainforest still skipped (long entrance queue)
 - Road/weather recording: **360-565-3131** · [nps.gov/olym alerts](https://www.nps.gov/olym)
 
 Full road-closure and weather detail: [Olympic Peninsula Trip Research](Olympic%20Peninsula%20Trip%20Research.md)
