@@ -43,7 +43,7 @@
 | 4:10 PM | Drive to Aberdeen (45 min) |
 | 4:55 PM | **Supercharge** — 416 E Wishkah St, 8 stalls, 24/7. Plug in and walk to supper. |
 | 5:00 PM | **Supper — [Rediviva](https://redivivarestaurant.com/)**, 118 E Wishkah St · (360) 637-8181. Same street as the charger, ~3 blocks / 5 min walk. Opens 5:00 PM sharp Wed–Sat. Scallops, oysters on the half shell, PNW seafood. **Reserve ahead** and mention a hard out-time. Allow 90 min. |
-| | *Casual fallback:* Breakwater Seafoods & Chowder House, 306 S F St — best fish & chips and chowder in Grays Harbor, open 11 AM–8 PM Tue–Sat. ~0.5 mi, so drive there after charging rather than walk. |
+| 5:00 PM | **Backup — [Breakwater Seafoods & Chowder House](https://breakwaterseafood.com/)**, 306 S F St · (360) 532-5693. Open 11 AM–8 PM Tue–Sat, no reservation needed — the safe call if Rediviva is booked or you're running late. Best fish & chips and clam chowder in Grays Harbor. ~0.5 mi, so drive over once the car has enough charge. |
 | 6:25 PM | Drive via Olympia (50 min) |
 | 7:15 PM | Olympia → Bellevue (1h10m) |
 | 8:25 PM | Arrive Bellevue |
