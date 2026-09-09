@@ -41,10 +41,12 @@
 | 3:20 PM | Lake Quinault + world's largest Sitka spruce — 45 min |
 | 4:05 PM | **Merriman Falls** — roadside pull-off on South Shore Rd on the way out, no detour. 5 min |
 | 4:10 PM | Drive to Aberdeen (45 min) |
-| 4:55 PM | **Supercharge + Supper** — 416 Wishkah St, 8 stalls, 24/7. Eat while it charges, ~75 min |
-| 6:10 PM | Drive via Olympia (50 min) |
-| 7:00 PM | Olympia → Bellevue (1h10m) |
-| 8:10 PM | Arrive Bellevue |
+| 4:55 PM | **Supercharge** — 416 E Wishkah St, 8 stalls, 24/7. Plug in and walk to supper. |
+| 5:00 PM | **Supper — [Rediviva](https://redivivarestaurant.com/)**, 118 E Wishkah St · (360) 637-8181. Same street as the charger, ~3 blocks / 5 min walk. Opens 5:00 PM sharp Wed–Sat. Scallops, oysters on the half shell, PNW seafood. **Reserve ahead** and mention a hard out-time. Allow 90 min. |
+| | *Casual fallback:* Breakwater Seafoods & Chowder House, 306 S F St — best fish & chips and chowder in Grays Harbor, open 11 AM–8 PM Tue–Sat. ~0.5 mi, so drive there after charging rather than walk. |
+| 6:25 PM | Drive via Olympia (50 min) |
+| 7:15 PM | Olympia → Bellevue (1h10m) |
+| 8:25 PM | Arrive Bellevue |
 
 [Verify Day 2 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Sequim%2C%20WA&destination=Bellevue%2C%20WA&waypoints=Storm%20King%20Ranger%20Station%2C%20Port%20Angeles%2C%20WA%7CLa%20Poel%20Picnic%20Area%2C%20Port%20Angeles%2C%20WA%7CRuby%20Beach%2C%20Olympic%20National%20Park%2C%20WA%7CKalaloch%20Tree%20of%20Life%2C%20Forks%2C%20WA%7CBeach%204%2C%20Olympic%20National%20Park%2C%20WA%7CWorlds%20Largest%20Sitka%20Spruce%2C%20Quinault%2C%20WA%7CMerriman%20Falls%2C%20Quinault%2C%20WA%7CTesla%20Supercharger%2C%20416%20Wishkah%20St%2C%20Aberdeen%2C%20WA&travelmode=driving) — all nine stops in order. Open the directions panel to check each leg's drive time against the table above.
 
@@ -89,7 +91,8 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 - **Carry all food and water** for Hurricane Ridge — no food service and no potable water up top
 - **Layers** for the ridge (~15°F colder than Sequim) and a **windbreaker** for the Day 2 beach stops
 - **Hoh River Bridge** on Day 2 is one-way alternating at 25 mph — pad the Ruby Beach leg (built into the 1h15m estimate above)
-- **Day 2 now returns to Bellevue ~8:10 PM** (supper moved to Aberdeen, stacked on the Supercharger stop) — let anyone waiting know, and check headlights/fuel range for the final I-5 leg after dark
+- **Day 2 now returns to Bellevue ~8:25 PM** (supper moved to Aberdeen, stacked on the Supercharger stop) — let anyone waiting know, and expect the last I-5 leg after dark
+- **Book Rediviva before you leave Sequim** — it seats from 5:00 PM Wed–Sat only (closed Sun–Tue) and cell signal is unreliable between Lake Crescent and Quinault. Hours verified Sep 9, 2026; re-confirm by phone
 - Skipped by design: Storm King **Mountain** (the steep, exposed summit trail — schedule/rockfall risk); Marymere Falls, an easy trail from the same Storm King trailhead, is now on Day 2. Hoh Rainforest still skipped (long entrance queue)
 - Road/weather recording: **360-565-3131** · [nps.gov/olym alerts](https://www.nps.gov/olym)
 
