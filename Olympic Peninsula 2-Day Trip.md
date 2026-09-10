@@ -13,21 +13,21 @@
 | 12:00 PM | Up Hurricane Ridge Rd → Hurricane Hill trailhead (17 mi paved + 1.5 mi spur, ~45 min; pass check at the entrance station) |
 | 12:45 PM | **Hurricane Hill hike** — 3.2–3.5 mi round trip, ~800 ft gain, paved, moderate. Allow 2h20m incl. photos. |
 | 3:05 PM | **Cirque Rim + Big Meadow loops** — short paved loops from the visitor center lot, ~45 min. Best marmot and black-tailed deer viewing; Mount Olympus and the Bailey Range across the valley |
-| 3:50 PM | **Sunrise Point out-and-back** (~1.5 mi RT, rolling, quieter than the main loops) — *or* the Switchback Trail toward Klahhane Ridge if legs are fresh (0.8 mi, steep, big payoff) |
-| 5:05 PM | Depart the ridge — down Hurricane Ridge Rd (~40 min, watch for deer). |
-| 5:45 PM | Port Angeles |
-| 6:00 PM | **Dinner** — Port Angeles waterfront/downtown |
-| 7:00 PM | Drive to Sequim (~30 min) |
-| 7:30 PM | **Check in to AirBnB** — Sequim, overnight |
+| 3:50 PM | *Optional* — **Sunrise Point out-and-back** (~1.5 mi RT, rolling, quieter than the main loops), or the Switchback Trail toward Klahhane Ridge if legs are fresh (0.8 mi, steep, big payoff). **Adds ~75 min**: check-in slips to ~8:15 PM and Sunny Farms closes before you'd reach it — shop at Safeway or QFC instead, both open past midnight. |
+| 3:50 PM | Depart the ridge — down Hurricane Ridge Rd (~40 min, watch for deer). |
+| 4:30 PM | Port Angeles — stretch, regroup (30 min) |
+| 5:00 PM | **Dinner** — Port Angeles waterfront/downtown |
+| 6:00 PM | Drive toward Sequim (~30 min) |
+| 6:20 PM | **Groceries** — Day 2 breakfast *and* picnic lunch. [Sunny Farms](http://sunnyfarms.com/), 261461 US-101 · (360) 683-8003 — on the highway between Port Angeles and Sequim, open till 8 PM, best produce and deli. Fallback: [Safeway](https://local.safeway.com/safeway/wa/sequim/680f-w-washington-st.html) 680F W Washington St (till midnight) or QFC 990 E Washington St (till 1 AM), both in Sequim. 30 min |
+| 7:00 PM | **Check in to AirBnB** — Sequim, overnight |
 
-[Verify Day 1 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Bellevue%2C%20WA&destination=Sequim%2C%20WA&waypoints=Port%20Angeles%2C%20WA%7CHurricane%20Hill%20Trailhead%2C%20Port%20Angeles%2C%20WA%7CHurricane%20Ridge%20Visitor%20Center%2C%20Port%20Angeles%2C%20WA&travelmode=driving) — Bellevue → Port Angeles → Hurricane Hill trailhead → visitor center → Sequim.
+[Verify Day 1 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Bellevue%2C%20WA&destination=Sequim%2C%20WA&waypoints=Port%20Angeles%2C%20WA%7CHurricane%20Hill%20Trailhead%2C%20Port%20Angeles%2C%20WA%7CHurricane%20Ridge%20Visitor%20Center%2C%20Port%20Angeles%2C%20WA%7CSunny%20Farms%20Country%20Store%2C%20Sequim%2C%20WA&travelmode=driving) — Bellevue → Port Angeles → Hurricane Hill trailhead → visitor center → Sunny Farms → Sequim.
 
 ## Day 2 — Sequim → Bellevue (Loop)
 
 | Time | Plan |
 | --- | --- |
-| 8:00 AM | **Groceries** — breakfast *and* a picnic lunch; the next real meal is supper in Aberdeen at 5:00 PM. [Safeway](https://local.safeway.com/safeway/wa/sequim/680f-w-washington-st.html), 680F W Washington St (open 5 AM, west side of town) — or [Sunny Farms](http://sunnyfarms.com/), 261461 US-101 (opens 8 AM, right on the route west; better produce and deli). Fill water bottles too. |
-| 9:00 AM | Depart Sequim |
+| 9:00 AM | Depart Sequim — breakfast at the AirBnB, picnic lunch packed, water bottles filled (all bought Day 1) |
 | 9:35 AM | Arrive Lake Crescent — Storm King / Marymere Falls trailhead |
 | 9:35 AM | **Marymere Falls hike** — 1.8 mi RT, easy grade, old-growth forest to a 90-ft falls. Allow 90 min. |
 | 11:05 AM | Drive along the south shore to La Poel (~15 min) |
@@ -63,6 +63,7 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 | Port Angeles | [Open](https://earth.google.com/web/search/Port+Angeles,+WA) |
 | Hurricane Hill Trailhead | [Open](https://earth.google.com/web/search/Hurricane+Hill+Trailhead,+Port+Angeles,+WA) |
 | Hurricane Ridge Visitor Center | [Open](https://earth.google.com/web/search/Hurricane+Ridge+Visitor+Center,+Port+Angeles,+WA) |
+| Sunny Farms (groceries) | [Open](https://earth.google.com/web/search/Sunny+Farms+Country+Store,+Sequim,+WA) |
 | Sequim (overnight) | [Open](https://earth.google.com/web/search/Sequim,+WA) |
 
 **Day 2**
@@ -90,7 +91,7 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 
 - **Park pass** required at the Hurricane Ridge entrance station
 - **Carry all food and water** for Hurricane Ridge — no food service and no potable water up top
-- **Same goes for Day 2** — stock up in Sequim before you leave. Between Lake Crescent and Aberdeen the only food is the Kalaloch and Quinault lodges, and the schedule doesn't budget a sit-down at either
+- **Same goes for Day 2** — but shop for it on Day 1 evening, not Day 2 morning. Between Lake Crescent and Aberdeen the only food is the Kalaloch and Quinault lodges, and the schedule doesn't budget a sit-down at either
 - **Layers** for the ridge (~15°F colder than Sequim) and a **windbreaker** for the Day 2 beach stops
 - **Hoh River Bridge** on Day 2 is one-way alternating at 25 mph — pad the Ruby Beach leg (built into the 1h15m estimate above)
 - **Day 2 now returns to Bellevue ~8:25 PM** (supper moved to Aberdeen, stacked on the Supercharger stop) — let anyone waiting know, and expect the last I-5 leg after dark
