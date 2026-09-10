@@ -26,13 +26,14 @@
 
 | Time | Plan |
 | --- | --- |
+| 8:00 AM | **Groceries** — breakfast *and* a picnic lunch; the next real meal is supper in Aberdeen at 5:00 PM. [Safeway](https://local.safeway.com/safeway/wa/sequim/680f-w-washington-st.html), 680F W Washington St (open 5 AM, west side of town) — or [Sunny Farms](http://sunnyfarms.com/), 261461 US-101 (opens 8 AM, right on the route west; better produce and deli). Fill water bottles too. |
 | 9:00 AM | Depart Sequim |
 | 9:35 AM | Arrive Lake Crescent — Storm King / Marymere Falls trailhead |
 | 9:35 AM | **Marymere Falls hike** — 1.8 mi RT, easy grade, old-growth forest to a 90-ft falls. Allow 90 min. |
 | 11:05 AM | Drive along the south shore to La Poel (~15 min) |
 | 11:20 AM | **Devil's Punchbowl** (La Poel) — 2-min walk to a footbridge over turquoise water. Quick photo stop, 15 min. |
 | 11:35 AM | Drive to Ruby Beach via Forks (~1h15m; Hoh River Bridge is one-way alternating — pad for a signal wait) |
-| 12:50 PM | **Ruby Beach** — 45 min |
+| 12:50 PM | **Ruby Beach** — 45 min. **Picnic lunch here** — driftwood and sea stacks, and the last unhurried stop before the afternoon compresses. Windbreaker: 59°F and breezy off the water. |
 | 1:35 PM | Drive to Kalaloch (10 min) |
 | 1:45 PM | Kalaloch Tree of Life — 20 min |
 | 2:05 PM | Drive to Beach 4 (10 min) |
@@ -89,6 +90,7 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 
 - **Park pass** required at the Hurricane Ridge entrance station
 - **Carry all food and water** for Hurricane Ridge — no food service and no potable water up top
+- **Same goes for Day 2** — stock up in Sequim before you leave. Between Lake Crescent and Aberdeen the only food is the Kalaloch and Quinault lodges, and the schedule doesn't budget a sit-down at either
 - **Layers** for the ridge (~15°F colder than Sequim) and a **windbreaker** for the Day 2 beach stops
 - **Hoh River Bridge** on Day 2 is one-way alternating at 25 mph — pad the Ruby Beach leg (built into the 1h15m estimate above)
 - **Day 2 now returns to Bellevue ~8:25 PM** (supper moved to Aberdeen, stacked on the Supercharger stop) — let anyone waiting know, and expect the last I-5 leg after dark
