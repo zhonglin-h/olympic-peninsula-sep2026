@@ -39,6 +39,34 @@ The bridge sits on US-101 between Forks and Ruby Beach, so Day 2 crosses it. Sta
 
 NPS now lists **Obstruction Point Rd as open** (still gravel, still not for RVs/trailers). The note below says to avoid it — that remains a reasonable call for the car, but it isn't closed. More importantly: **there is no potable water at Hurricane Ridge** during the 2026 utility construction, and the parking lot work runs through August with possible rolling closures. Carry all your water up.
 
+## Trail Notes — what each one actually gives you
+
+Perks and trade-offs for every walk on the itinerary, so the optional ones can be swapped in or dropped on the day without re-researching.
+
+### Day 1 — Hurricane Ridge
+
+| Trail | Numbers | What you get |
+| --- | --- | --- |
+| **Hurricane Hill** | 3.2 mi RT · ~700 ft · paved | The marquee one. A genuine 360° summit: Mount Olympus and the Bailey Range across the valley to the south, and on a clear day the Strait of Juan de Fuca, Vancouver Island, and Mount Baker to the north. Paved end to end, so it's a big-view summit you can do in trail runners. Also the busiest trail on the ridge — the 12:45 PM start puts you behind the morning wave. |
+| **Cirque Rim + Big Meadow** | ~1 mi total · flat · paved | Best wildlife-per-step of the whole trip. Olympic marmots — a species found nowhere else on earth — and black-tailed deer graze right beside the pavement, largely indifferent to people. Interpretive signs, wheelchair accessible, and Big Meadow opens onto the full valley panorama. The highest payoff for the least effort on Day 1. |
+| **Sunrise Point** *(optional)* | ~1.5 mi RT · rolling | Solitude. Nearly everyone stops at the visitor-center loops, so a few hundred yards buys you ridge views without the crowd. Faces east and north, which makes it the better late-afternoon light of the two options. |
+| **Switchback Trail** *(optional alt)* | 0.8 mi · steep · ~700 ft | The most view per mile on the ridge — it gains the Klahhane Ridge crest in well under a mile. Steep and fully exposed, with no shade and no water. Only worth it if Hurricane Hill left something in the legs. |
+
+### Day 2 — Lake Crescent to Quinault
+
+| Stop | Numbers | What you get |
+| --- | --- | --- |
+| **Marymere Falls** | 1.8 mi RT · ~450 ft | A 90-ft falls at the back of deep old-growth — Douglas fir, western hemlock, cedar — with two wooden footbridges over Barnes Creek. Flat and easy for the first 0.9 mi, then a short steep switchback to two viewing platforms. Shaded the entire way, which matters more than it sounds after a day on the exposed ridge. |
+| **Devil's Punchbowl** | ~5 min walk | Lake Crescent is unusually low in nitrogen, so almost no algae grows in it — the water is startlingly clear and an improbable turquoise. The arched footbridge over the cove is the shot. |
+| **Ruby Beach** | short steep descent | Sea stacks offshore, huge bleached driftwood piles, and Cedar Creek cutting across the sand to the surf. Named for the garnet crystals that tint the sand reddish in places. The most photogenic beach on this stretch of coast, and the right place for the picnic lunch. |
+| **Beach 4** | short trail + beach walk | The best tidepooling on the Kalaloch strip — anemones, ochre sea stars, urchins in the rock shelves. Quieter than Ruby Beach because it takes slightly more effort to reach the pools. |
+| **Kalaloch Tree of Life** | no walking | A Sitka spruce suspended over a hollowed-out gully, roots bridging the gap with essentially no soil beneath it. Structurally it should not still be there, which is the whole appeal. Right off the bluff by the campground. |
+| **World's largest Sitka spruce** | 0.3 mi · flat gravel | 191 ft tall, 58 ft 11 in around, ~1,000 years old, with a 96-ft crown spread. Five flat minutes from the car for a tree that genuinely does not photograph. |
+| **Merriman Falls** | roadside | A mossy tiered falls a few feet off South Shore Rd. Costs nothing, and almost nobody pulls over for it. |
+
+> [!warning] Beach 4 depends on the tide
+> The tide pools are only exposed around low tide — at high water there is nothing to see and the rock shelves are unsafe. Check the Kalaloch tide table against the 2:15 PM slot before committing; if it's a high tide, drop Beach 4 and give the extra 40 min to Lake Quinault or an earlier Aberdeen arrival.
+
 ## Weather — Sept 9–10, 2026
 
 Source: [NWS api.weather.gov](https://api.weather.gov) point forecasts, pulled Sep 9, 2026 ET. Each cell is **high/low °F · conditions · chance of precip**.

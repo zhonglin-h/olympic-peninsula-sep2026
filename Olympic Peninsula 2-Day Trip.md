@@ -1,7 +1,7 @@
 # Olympic Peninsula — 2 Day Trip
 
 **Base:** Bellevue, WA
-**Related:** [Olympic Peninsula Trip Research](Olympic%20Peninsula%20Trip%20Research.md)
+**Related:** [Olympic Peninsula Trip Research](Olympic%20Peninsula%20Trip%20Research.md) — road status, forecasts, and [what each trail gives you](Olympic%20Peninsula%20Trip%20Research.md#trail-notes--what-each-one-actually-gives-you)
 
 ## Day 1 — Bellevue → Sequim
 
@@ -29,7 +29,7 @@
 | --- | --- |
 | 9:00 AM | Depart Sequim — breakfast at the AirBnB, picnic lunch packed, water bottles filled (all bought Day 1) |
 | 9:35 AM | Arrive Lake Crescent — Storm King / Marymere Falls trailhead |
-| 9:35 AM | **Marymere Falls hike** — 1.8 mi RT, easy grade, old-growth forest to a 90-ft falls. Allow 90 min. |
+| 9:35 AM | **Marymere Falls hike** — 1.8 mi RT, ~450 ft, old-growth forest to a 90-ft falls. Flat for the first 0.9 mi, then a short steep switchback to the viewing platforms. Allow 90 min. |
 | 11:05 AM | Drive along the south shore to La Poel (~15 min) |
 | 11:20 AM | **Devil's Punchbowl** (La Poel) — 2-min walk to a footbridge over turquoise water. Quick photo stop, 15 min. |
 | 11:35 AM | Drive to Ruby Beach via Forks (~1h15m; Hoh River Bridge is one-way alternating — pad for a signal wait) |
