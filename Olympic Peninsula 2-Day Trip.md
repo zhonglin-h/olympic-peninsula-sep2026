@@ -91,6 +91,21 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 > [!note] Coverage limits
 > Street View follows drivable roads. Expect good coverage on US-101, Hurricane Ridge Rd, and the paved lots — but the Hurricane Hill trail, the Ruby Beach descent, and the spruce trail are off-road and won't have car coverage. Some park trails have hiker-collected imagery; it shows as a blue dot rather than a blue line.
 
+## Book Ahead
+
+| What | For | How | Why it matters |
+| --- | --- | --- | --- |
+| **Sequim AirBnB** | Day 1 night | already booked? | Confirm a 7:00 PM check-in works — ~8:15 PM if you take the optional ridge trail. Get the self-check-in details before you lose signal |
+| **[Creekside Restaurant](https://www.thekalalochlodge.com/dine-and-shop/creekside-restaurant/)** | Day 2 lunch, 1:45 PM | [OpenTable](https://www.opentable.com/r/creekside-kalaloch) or (360) 962-2271 | A lodge restaurant inside the park in September. Lunch service ends 3:00 PM and there is no other real food between Forks and Quinault — miss this and the next meal is supper |
+| **[Rediviva](https://redivivarestaurant.com/)** | Day 2 supper, 5:55 PM | (360) 637-8181 | Small room, and the best table in Aberdeen. Wed–Sat only |
+| **Park pass** | Hurricane Ridge, Day 1 | [recreation.gov](https://www.recreation.gov/) or at the entrance station | Vehicle fee (~$30–35, 7 days) or an America the Beautiful annual. **No timed-entry reservation is required at Hurricane Ridge in 2026** — just the fee. Buying online saves a few minutes at the gate |
+
+**Deliberately walk-in, don't book:** the Aberdeen Supercharger (first-come, 8 stalls), Breakwater Seafoods, and Sully's in Forks — those two are the fallbacks precisely because they take no reservation.
+
+**Still unbooked:** Day 1 dinner in Port Angeles has no venue picked. 5:00 PM midweek shouldn't need a reservation, but choose somewhere before you're standing on the waterfront deciding.
+
+**Not a booking, but do it in advance:** check the Kalaloch tide table against the 3:10 PM Beach 4 slot, and confirm whether your Bellevue → Port Angeles route uses the Edmonds–Kingston ferry. The ferry takes no reservations, but a missed sailing costs ~40 minutes off the front of Day 1.
+
 ## Essentials
 
 - **Park pass** required at the Hurricane Ridge entrance station
