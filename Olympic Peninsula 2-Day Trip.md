@@ -18,7 +18,7 @@
 | 4:30 PM | Port Angeles — stretch, regroup (30 min) |
 | 5:00 PM | **Dinner** — Port Angeles waterfront/downtown |
 | 6:00 PM | Drive toward Sequim (~30 min) |
-| 6:20 PM | **Groceries** — Day 2 breakfast *and* picnic lunch. [Sunny Farms](http://sunnyfarms.com/), 261461 US-101 · (360) 683-8003 — on the highway between Port Angeles and Sequim, open till 8 PM, best produce and deli. Fallback: [Safeway](https://local.safeway.com/safeway/wa/sequim/680f-w-washington-st.html) 680F W Washington St (till midnight) or QFC 990 E Washington St (till 1 AM), both in Sequim. 30 min |
+| 6:20 PM | **Groceries** — Day 2 breakfast plus road snacks and water; lunch is a restaurant now, so nothing to prep. [Sunny Farms](http://sunnyfarms.com/), 261461 US-101 · (360) 683-8003 — on the highway between Port Angeles and Sequim, open till 8 PM, best produce and deli. Fallback: [Safeway](https://local.safeway.com/safeway/wa/sequim/680f-w-washington-st.html) 680F W Washington St (till midnight) or QFC 990 E Washington St (till 1 AM), both in Sequim. 30 min |
 | 7:00 PM | **Check in to AirBnB** — Sequim, overnight |
 
 [Verify Day 1 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Bellevue%2C%20WA&destination=Sequim%2C%20WA&waypoints=Port%20Angeles%2C%20WA%7CHurricane%20Hill%20Trailhead%2C%20Port%20Angeles%2C%20WA%7CHurricane%20Ridge%20Visitor%20Center%2C%20Port%20Angeles%2C%20WA%7CSunny%20Farms%20Country%20Store%2C%20Sequim%2C%20WA&travelmode=driving) — Bellevue → Port Angeles → Hurricane Hill trailhead → visitor center → Sunny Farms → Sequim.
@@ -27,27 +27,31 @@
 
 | Time | Plan |
 | --- | --- |
-| 9:00 AM | Depart Sequim — breakfast at the AirBnB, picnic lunch packed, water bottles filled (all bought Day 1) |
+| 9:00 AM | Depart Sequim — breakfast at the AirBnB, water bottles filled (groceries bought Day 1) |
 | 9:35 AM | Arrive Lake Crescent — Storm King / Marymere Falls trailhead |
 | 9:35 AM | **Marymere Falls hike** — 1.8 mi RT, ~450 ft, old-growth forest to a 90-ft falls. Flat for the first 0.9 mi, then a short steep switchback to the viewing platforms. Allow 90 min. |
 | 11:05 AM | Drive along the south shore to La Poel (~15 min) |
 | 11:20 AM | **Devil's Punchbowl** (La Poel) — 2-min walk to a footbridge over turquoise water. Quick photo stop, 15 min. |
-| 11:35 AM | Drive to Ruby Beach via Forks (~1h15m; Hoh River Bridge is one-way alternating — pad for a signal wait) |
-| 12:50 PM | **Ruby Beach** — 45 min. **Picnic lunch here** — driftwood and sea stacks, and the last unhurried stop before the afternoon compresses. Windbreaker: 59°F and breezy off the water. |
+| 11:35 AM | Drive to Ruby Beach via Forks (~1h15m; Hoh River Bridge is one-way alternating — pad for a signal wait). You pass through **Forks ~12:25** — if the bridge wait has put you well behind, eat there instead: Sully's Drive-In sits on 101 at the north end of town, counter service, no wait. Forks is the last chance to make that call. |
+| 12:50 PM | **Ruby Beach** — 45 min. Driftwood, sea stacks, Cedar Creek across the sand. Windbreaker: 59°F and breezy off the water. |
 | 1:35 PM | Drive to Kalaloch (10 min) |
-| 1:45 PM | Kalaloch Tree of Life — 20 min |
-| 2:05 PM | Drive to Beach 4 (10 min) |
-| 2:15 PM | **Beach 4** — tide pools, quieter than Ruby Beach. 30 min |
-| 2:45 PM | Drive to Lake Quinault (35 min) |
-| 3:20 PM | Lake Quinault + world's largest Sitka spruce — 45 min |
-| 4:05 PM | **Merriman Falls** — roadside pull-off on South Shore Rd on the way out, no detour. 5 min |
-| 4:10 PM | Drive to Aberdeen (45 min) |
-| 4:55 PM | **Supercharge** — 416 E Wishkah St, 8 stalls, 24/7. Plug in and walk to supper. |
-| 5:00 PM | **Supper — [Rediviva](https://redivivarestaurant.com/)**, 118 E Wishkah St · (360) 637-8181. Same street as the charger, ~3 blocks / 5 min walk. Opens 5:00 PM sharp Wed–Sat. Scallops, oysters on the half shell, PNW seafood. **Reserve ahead** and mention a hard out-time. Allow 90 min. |
-| 5:00 PM | **Backup — [Breakwater Seafoods & Chowder House](https://breakwaterseafood.com/)**, 306 S F St · (360) 532-5693. Open 11 AM–8 PM Tue–Sat, no reservation needed — the safe call if Rediviva is booked or you're running late. Best fish & chips and clam chowder in Grays Harbor. ~0.5 mi, so drive over once the car has enough charge. |
-| 6:25 PM | Drive via Olympia (50 min) |
-| 7:15 PM | Olympia → Bellevue (1h10m) |
-| 8:25 PM | Arrive Bellevue |
+| 1:45 PM | **Lunch — [Creekside Restaurant](https://www.thekalalochlodge.com/dine-and-shop/creekside-restaurant/)** at Kalaloch Lodge, 157151 US-101 · (360) 962-2271. Ocean view from the bluff; the only real restaurant between Forks and Quinault. Lunch service ends **2:30–3:00 PM**, so this is not a stop you can drift into — **reserve ahead** ([OpenTable](https://www.opentable.com/r/creekside-kalaloch)). Allow 60 min. |
+| 2:45 PM | **Kalaloch Tree of Life** — a 5-min walk from the lodge, so it costs nothing extra. 15 min |
+| 3:00 PM | Drive to Beach 4 (10 min) |
+| 3:10 PM | **Beach 4** — tide pools, quieter than Ruby Beach. 30 min. *This is the swing stop* — see the note below. |
+| 3:40 PM | Drive to Lake Quinault (35 min) |
+| 4:15 PM | Lake Quinault + world's largest Sitka spruce — 45 min |
+| 5:00 PM | **Merriman Falls** — roadside pull-off on South Shore Rd on the way out, no detour. 5 min |
+| 5:05 PM | Drive to Aberdeen (45 min) |
+| 5:50 PM | **Supercharge** — 416 E Wishkah St, 8 stalls, 24/7. Plug in and walk to supper. |
+| 5:55 PM | **Supper — [Rediviva](https://redivivarestaurant.com/)**, 118 E Wishkah St · (360) 637-8181. Same street as the charger, ~3 blocks / 5 min walk. Open till 10 PM Wed–Sat. Scallops, oysters on the half shell, PNW seafood. **Reserve ahead** and mention a hard out-time. Allow 90 min. |
+| 5:55 PM | **Backup — [Breakwater Seafoods & Chowder House](https://breakwaterseafood.com/)**, 306 S F St · (360) 532-5693. Open 11 AM–8 PM Tue–Sat, no reservation needed — the safe call if Rediviva is booked or you're running late. Best fish & chips and clam chowder in Grays Harbor. ~0.5 mi, so drive over once the car has enough charge. |
+| 7:25 PM | Drive via Olympia (50 min) |
+| 8:15 PM | Olympia → Bellevue (1h10m) |
+| 9:25 PM | Arrive Bellevue |
+
+> [!note] Beach 4 is your schedule lever
+> A sit-down lunch costs ~60 min, which lands you home around **9:25 PM**. Dropping Beach 4 pulls that back to roughly **8:50 PM**. It's already the one stop conditional on the tide, so if the tide is wrong *or* the evening is running long, it's the clean thing to cut — everything else on Day 2 is either a short walk or on the way.
 
 [Verify Day 2 route in Google Maps](https://www.google.com/maps/dir/?api=1&origin=Sequim%2C%20WA&destination=Bellevue%2C%20WA&waypoints=Storm%20King%20Ranger%20Station%2C%20Port%20Angeles%2C%20WA%7CLa%20Poel%20Picnic%20Area%2C%20Port%20Angeles%2C%20WA%7CRuby%20Beach%2C%20Olympic%20National%20Park%2C%20WA%7CKalaloch%20Tree%20of%20Life%2C%20Forks%2C%20WA%7CBeach%204%2C%20Olympic%20National%20Park%2C%20WA%7CWorlds%20Largest%20Sitka%20Spruce%2C%20Quinault%2C%20WA%7CMerriman%20Falls%2C%20Quinault%2C%20WA%7CTesla%20Supercharger%2C%20416%20Wishkah%20St%2C%20Aberdeen%2C%20WA&travelmode=driving) — all nine stops in order. Open the directions panel to check each leg's drive time against the table above.
 
@@ -91,7 +95,7 @@ Google Earth has no route/directions mode, so the two Maps links above stay as-i
 
 - **Park pass** required at the Hurricane Ridge entrance station
 - **Carry all food and water** for Hurricane Ridge — no food service and no potable water up top
-- **Same goes for Day 2** — but shop for it on Day 1 evening, not Day 2 morning. Between Lake Crescent and Aberdeen the only food is the Kalaloch and Quinault lodges, and the schedule doesn't budget a sit-down at either
+- **Day 2 lunch is booked at Kalaloch Lodge**, not packed — but carry snacks and water anyway. Between Forks and Quinault the lodges are the only food at all, and Creekside stops serving lunch at 3:00 PM sharp
 - **Layers** for the ridge (~15°F colder than Sequim) and a **windbreaker** for the Day 2 beach stops
 - **Hoh River Bridge** on Day 2 is one-way alternating at 25 mph — pad the Ruby Beach leg (built into the 1h15m estimate above)
 - **Day 2 now returns to Bellevue ~8:25 PM** (supper moved to Aberdeen, stacked on the Supercharger stop) — let anyone waiting know, and expect the last I-5 leg after dark
